@@ -16,7 +16,15 @@ render(){
 
     return(
       <div id='mainDiv'>
-       <h1>Hello World</h1>
+       <div className="container">
+        <div className="row"> 
+          <div className="col">
+             <div className="card">
+              <input value="test"/>
+             </div>           
+          </div>
+        </div>
+       </div>
        <br/>
        <a href="/TestPage">Test Page found at '/TestPage'</a>
       </div>
