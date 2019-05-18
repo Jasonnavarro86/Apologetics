@@ -1,0 +1,26 @@
+{
+  "name": "apologetics",
+  "version": "1.0.0",
+  "description": "Apologetics App",
+  "main": "server.js",
+  "scripts": {
+    "test": "Apo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jasonnavarro86/Apologetics.git"
+  },
+  "keywords": [
+    "Faith",
+    "Christ",
+    "Jesus",
+    "Apologetics",
+    "Theology"
+  ],
+  "author": "Jason Navarro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jasonnavarro86/Apologetics/issues"
+  },
+  "homepage": "https://github.com/Jasonnavarro86/Apologetics#readme"
+}
